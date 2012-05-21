@@ -1,0 +1,13 @@
+C:\Grundfos\Privat\inbox\inbox\bin\Debug\inbox.exe
+C:\Grundfos\Privat\inbox\inbox\bin\Debug\inbox.pdb
+C:\Grundfos\Privat\inbox\inbox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Grundfos\Privat\inbox\inbox\obj\x86\Debug\inbox.Properties.Resources.resources
+C:\Grundfos\Privat\inbox\inbox\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Grundfos\Privat\inbox\inbox\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Grundfos\Privat\inbox\inbox\obj\x86\Debug\inbox.exe
+C:\Grundfos\Privat\inbox\inbox\obj\x86\Debug\inbox.pdb
+C:\Grundfos\Privat\inbox\inbox\bin\Debug\OpenPop.dll
+C:\Grundfos\Privat\inbox\inbox\obj\x86\Debug\inbox.NewMail.resources
+C:\Grundfos\Privat\inbox\inbox\bin\Debug\inbox.exe.config
+C:\Grundfos\Privat\inbox\inbox\obj\x86\Debug\inbox.Inbox.resources
+C:\Grundfos\Privat\inbox\inbox\obj\x86\Debug\inbox.CustomColor.resources
